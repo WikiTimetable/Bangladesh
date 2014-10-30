@@ -1,0 +1,238 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible
+33,AKA2DA-Titas Commuter,every_day,Dhaka,,0,,,0
+17,AKA2SYT-Kushiara Express,every_day,Sylhet,,0,,,0
+93,AKA2SYT-Sylhet Comuter,not_friday,Sylhet,,0,,,0
+744,BAH2DABB-Bhrammaputra Express,every_day,Dhaka Bimanbander,,0,,,0
+708,BAH2DABB-Tista Express,not_monday,Dhaka Bimanbander,,0,,,0
+38,BBE2CTG-Mymensingh Express,every_day,Chittagong,,0,,,0
+76,BBE2MYM-Dholesssory Express,every_day,Mymensingh Junction,,0,,,0
+35,BHRA2DA-Titas Commuter,not_friday,Dhaka,,0,,,0
+767,BOG2CHr-Dulonchapa Express,every_day,Chirirbandar,,0,,,0
+59,BON2DIN-Ramsagor Express,every_day,Dinajpur,,0,,,0
+66,BUR2LAL-Burimari Comuter-2,every_day,Lalmonirhat Junction,,0,,,0
+72,BUR2LAL-Burimari Comuter-4,every_day,Lalmonirhat Junction,,0,,,0
+211,CHA2DA-Local,every_day,Dhaka,,0,,,0
+213,CHA2DA-Local,every_day,Dhaka,,0,,,0
+215,CHA2DA-Local,every_day,Dhaka,,0,,,0
+217,CHA2DA-Local,every_day,Dhaka,,0,,,0
+219,CHA2DA-Local,every_day,Dhaka,,0,,,0
+221,CHA2DA-Local,every_day,Dhaka,,0,,,0
+225,CHA2DA-Local,every_day,Dhaka,,0,,,0
+227,CHA2DA-Local,every_day,Dhaka,,0,,,0
+229,CHA2DA-Local,every_day,Dhaka,,0,,,0
+231,CHA2DA-Local,every_day,Dhaka,,0,,,0
+233,CHA2DA-Local,every_day,Dhaka,,0,,,0
+235,CHA2DA-Local,every_day,Dhaka,,0,,,0
+237,CHA2DA-Local,every_day,Dhaka,,0,,,0
+209,CHA2DA-N.Gong Comuter,every_day,Dhaka,,0,,,0
+223,CHA2DA-N.Gong Comuter,every_day,Dhaka,,0,,,0
+239,CHA2DA-N.Gong Comuter,every_day,Dhaka,,0,,,0
+734,CLH2AUP-Titumir Express,not_wednesday,Abdulpur Junction,,0,,,0
+28,CLH2PBT-Chilahati Express,every_day,Parbatipur Junction,,0,,,0
+89,CML2DA-Comilla Comuter,not_friday,Dhaka,,0,,,0
+84,CML2KCPR-Chandpur Comuter,not_friday,Chandpur Court,,0,,,0
+88,CML2SNP-Noakhali Comuter,not_friday,Sonapur,,0,,,0
+58,CNBJ2RJHI-Rajshahi Comuter,every_day,Rajshahi,,0,,,0
+6,CNBJ2SIR-Rajshahi Express,every_day,Sirajganj,,0,,,0
+37,CTG2BBE-Mymensingh Express,every_day,Bangabandhu Setu East,,0,,,0
+131,CTG2CTU-,every_day,Chittagong University,,0,,,0
+133,CTG2CTU-,every_day,Chittagong University,,0,,,0
+139,CTG2CTU-,every_day,Chittagong University,,0,,,0
+141,CTG2CTU-,every_day,Chittagong University,,0,,,0
+143,CTG2CTU-,every_day,Chittagong University,,0,,,0
+67,CTG2DA-Chattala Express,not_tuesday,Dhaka,,0,,,0
+1,CTG2DA-Dhaka Mail,every_day,Dhaka,,0,,,0
+3,CTG2DA-Karnaphuli Express,every_day,Dhaka,,0,,,0
+703,CTG2DABB-Mohanagar Ghuduli,every_day,Dhaka Bimanbander,,0,,,0
+721,CTG2DABB-Mohanagar Provati,not_sunday,Dhaka Bimanbander,,0,,,0
+701,CTG2DABB-Shubarno Express,not_friday,Dhaka Bimanbander,,0,,,0
+741,CTG2DABB-Turna,every_day,Dhaka Bimanbander,,0,,,0
+111,CTG2DOH-,every_day,Dohazari,,0,,,0
+CTG-commuter-3,CTG2JAH-,every_day,Janali Hat,,0,,,0
+CTG-commuter-1,CTG2JAH-,every_day,Janali Hat,,0,,,0
+729,CTG2KCPR-Meghna Express,every_day,Chandpur Court,,0,,,0
+29,CTG2KCPR-Sagarika Express,every_day,Chandpur Court,,0,,,0
+79,CTG2LKM-Laksam Comuter,not_friday,Laksham Junction,,0,,,0
+719,CTG2MHZ-Pararika Express,not_monday,Maijgaon,,0,,,0
+723,CTG2MHZ-Udayan Express,not_saturday,Maijgaon,,0,,,0
+13,CTG2SYT-Jalalabad Express,every_day,Sylhet,,0,,,0
+136,CTU2CTG-,every_day,Chittagong,,0,,,0
+138,CTU2CTG-,every_day,Chittagong,,0,,,0
+140,CTU2CTG-,every_day,Chittagong,,0,,,0
+142,CTU2CTG-,every_day,Chittagong,,0,,,0
+144,CTU2CTG-,every_day,Chittagong,,0,,,0
+132,CTU2SHO-,every_day,Sholashohor,,0,,,0
+134,CTU2SHO-,every_day,Sholashohor,,0,,,0
+36,DA2AKA-Titas Commuter,every_day,Akhaura,,0,,,0
+753,DA2AUP-Silkcity Express,not_sunday,Abdulpur Junction,,0,,,0
+771,DA2BBE-Rangpur Express,not_sunday,Bangabandhu Setu East,,0,,,0
+34,DA2BHRA-Titas Commuter,not_friday,Bramhonbaria,,0,,,0
+212,DA2CHA-Local,every_day,Chasara,,0,,,0
+214,DA2CHA-Local,every_day,Chasara,,0,,,0
+216,DA2CHA-Local,every_day,Chasara,,0,,,0
+218,DA2CHA-Local,every_day,Chasara,,0,,,0
+220,DA2CHA-Local,every_day,Chasara,,0,,,0
+222,DA2CHA-Local,every_day,Chasara,,0,,,0
+226,DA2CHA-Local,every_day,Chasara,,0,,,0
+228,DA2CHA-Local,every_day,Chasara,,0,,,0
+230,DA2CHA-Local,every_day,Chasara,,0,,,0
+232,DA2CHA-Local,every_day,Chasara,,0,,,0
+234,DA2CHA-Local,every_day,Chasara,,0,,,0
+236,DA2CHA-Local,every_day,Chasara,,0,,,0
+238,DA2CHA-Local,every_day,Chasara,,0,,,0
+210,DA2CHA-N.Gong Comuter,every_day,Chasara,,0,,,0
+224,DA2CHA-N.Gong Comuter,every_day,Chasara,,0,,,0
+240,DA2CHA-N.Gong Comuter,every_day,Chasara,,0,,,0
+90,DA2CML-Comilla Comuter,not_friday,Comilla,,0,,,0
+68,DA2CTG-Chattala Express,not_tuesday,Chittagong,,0,,,0
+2,DA2CTG-Chittagong Mail,every_day,Chittagong,,0,,,0
+4,DA2CTG-Karnaphuli Express,every_day,Chittagong,,0,,,0
+702,DA2DABB-Shubarno Express,not_friday,Dhaka Bimanbander,,0,,,0
+743,DA2DEW-Bhrammaputra Express,every_day,Dewangonj,,0,,,0
+47,DA2DEW-Dewanganj Comuter,every_day,Dewangonj,,0,,,0
+51,DA2DEW-Jamalpur Comuter,every_day,Dewangonj,,0,,,0
+707,DA2DEW-Tista Express,not_monday,Dewangonj,,0,,,0
+55,DA2DEW-Voyal Express,every_day,Dewangonj,,0,,,0
+722,DA2FNI-Mohanagar Ghuduli,not_sunday,Feni Junction,,0,,,0
+704,DA2FNI-Mohanagar Provati,every_day,Feni Junction,,0,,,0
+742,DA2FNI-Turna,every_day,Feni Junction,,0,,,0
+749,DA2GAC-Egarsindhur Ghoduli,every_day,Gachihata,,0,,,0
+737,DA2GAC-Egarsindhur Provati,not_wednesday,Gachihata,,0,,,0
+776,DA2ISH-Sirajgong Express,not_saturday,Ishardi Junction,,0,,,0
+Turag 7,DA2JYR-Turag Express,every_day,Joydevpur Junction,,0,,,0
+Turag 5,DA2JYR-Turag Express,every_day,Joydevpur Junction,,0,,,0
+Turag 1,DA2JYR-Turag Express,every_day,Joydevpur Junction,,0,,,0
+Turag 3,DA2JYR-Turag Express,every_day,Joydevpur Junction,,0,,,0
+751,DA2KAU-Lalmoni Express,not_friday,Kaunia Junction,,0,,,0
+712,DA2MAI-Upokul Express,not_tuesday,Maijdi Court,,0,,,0
+717,DA2MHZ-Jayantika Express,every_day,Maijgaon,,0,,,0
+709,DA2MHZ-Parabat Express,not_tuesday,Maijgaon,,0,,,0
+739,DA2MHZ-Upoban Express,not_wednesday,Maijgaon,,0,,,0
+777,DA2MOH-Haore Express,not_wednesday,Mohanganj,,0,,,0
+43,DA2MOH-Mahua Express,every_day,Mohanganj,,0,,,0
+49,DA2MYM-Balaka Comuter,every_day,Mymensingh Junction,,0,,,0
+39,DA2MYM-Isakhan Express,every_day,Mymensingh Junction,,0,,,0
+726,DA2NAP-Shundorban Epress,not_saturday,Noapara,,0,,,0
+757,DA2PBT-Drutojan Express,not_wednesday,Parbatipur Junction,,0,,,0
+705,DA2PBT-Ekota Express,not_tuesday,Parbatipur Junction,,0,,,0
+769,DA2RJHI-Dhumketue Express,not_tuesday,Rajshahi,,0,,,0
+5,DA2RJHI-Rajshahi Express,every_day,Rajshahi,,0,,,0
+12,DA2SNP-Noakhali Express,every_day,Sonapur,,0,,,0
+735,DA2SRB-Augnibina Express,every_day,Sarishabari,,0,,,0
+745,DA2SRB-Jamuna Express,every_day,Sarishabari,,0,,,0
+773,DA2SYT-Kalani Express,not_friday,Sylhet,,0,,,0
+9,DA2SYT-Surma Mail,every_day,Sylhet,,0,,,0
+3107/3110,DACT2KOL-Moitree Express,every_day,Kolkata Chitpur,,0,,,0
+764,DACT2NAP-Chitra Express,not_monday,Noapara,,0,,,0
+765,DACT2SDP-Nilsagor,not_monday,Saidpur,,0,,,0
+759,DACT2SRD-Padma Express,not_tuesday,Sardah,,0,,,0
+48,DEW2DA-Dewanganj Comuter,every_day,Dhaka,,0,,,0
+52,DEW2DA-Jamalpur Comuter,every_day,Dhaka,,0,,,0
+56,DEW2DA-Voyal Express,every_day,Dhaka,,0,,,0
+60,DIN2BON-Ramsagor Express,every_day,Bonarpara,,0,,,0
+758,DIN2DABB-Drutojan Express,not_wednesday,Dhaka Bimanbander,,0,,,0
+706,DIN2DABB-Ekota Express,not_monday,Dhaka Bimanbander,,0,,,0
+62,DIN2LAL-Dinajpur Comuter,every_day,Lalmonirhat Junction,,0,,,0
+768,DIN2SNT-Dulonchapa Express,every_day,Sonotala,,0,,,0
+112,DOH2CTG-,every_day,Chittagong,,0,,,0
+54,DSNJ2KLNJ-Benapol Commuter,every_day,Khulna,,0,,,0
+755,GLB2ISH-Modhumoti Express,not_friday,Ishardi Junction,,0,,,0
+26,GLB2KLNJ-Nakshikantha Express,every_day,Khulna,,0,,,0
+775,ISH2DA-Sirajgong Express,not_saturday,Dhaka,,0,,,0
+57,ISH2RJHI-Rajshahi Comuter,every_day,Rajshahi,,0,,,0
+CTG-commuter-2,JAH2CTG-,every_day,Chittagong,,0,,,0
+CTG-commuter-4,JAH2CTG-,every_day,Chittagong,,0,,,0
+3108,JYR2DA-Maitree Express,every_day,Dhaka,,0,,,0
+Turag 8,JYR2DA-Turag Express,every_day,Dhaka,,0,,,0
+Turag 4,JYR2DA-Turag Express,every_day,Dhaka,,0,,,0
+Turag 2,JYR2DA-Turag Express,every_day,Dhaka,,0,,,0
+Turag 6,JYR2DA-Turag Express,every_day,Dhaka,,0,,,0
+3107,JYR2KOL-Maitree Express,every_day,Kolkata Chitpur,,0,,,0
+91,JYR2MYM-Mymensingh Comuter,not_friday,Mymensingh Junction,,0,,,0
+81,KCPR2CML-Chandpur Comuter,not_friday,Comilla,,0,,,0
+83,KCPR2CML-Chandpur Comuter,not_friday,Comilla,,0,,,0
+30,KCPR2CTG-Sagarika Express,every_day,Chittagong,,0,,,0
+730,KCPR2FNI-Meghna Express,every_day,Feni Junction,,0,,,0
+750,KIS2DABB-Egarsindhur Ghoduli,not_wednesday,Dhaka Bimanbander,,0,,,0
+738,KIS2DABB-Egarsindhur Provati,every_day,Dhaka Bimanbander,,0,,,0
+715,KLNJ2AZGR-Kapotakhkho Express,not_wednesday,Azim Nagar,,0,,,0
+761,KLNJ2AZGR-Sagordari Express,not_monday,Azim Nagar,,0,,,0
+15,KLNJ2CNBJ-Mahananda Express,every_day,Nawabganj,,0,,,0
+763,KLNJ2DABB-Chitra Express,not_monday,Dhaka Bimanbander,,0,,,0
+725,KLNJ2DABB-Shundorban Epress,not_friday,Dhaka Bimanbander,,0,,,0
+53,KLNJ2DSNJ-Benapol Comuter,every_day,Darshana Junction,,0,,,0
+25,KLNJ2GLB-Nakshikantha Express,every_day,Goalanda Bazar,,0,,,0
+23,KLNJ2PBT-Rocket Express,every_day,Parbatipur Junction,,0,,,0
+727,KLNJ2PBT-Rupsha Express,not_thursday,Parbatipur Junction,,0,,,0
+747,KLNJ2PBT-Shimanto Express,every_day,Parbatipur Junction,,0,,,0
+3108/3109,KOL2DACT-Moitree Express,every_day,Dhaka Cantonment,,0,,,0
+714,LAL2BOG-Karotoa Express,every_day,Bogra,,0,,,0
+65,LAL2BUR-Burimari Comuter-1,every_day,Burimari,,0,,,0
+71,LAL2BUR-Burimari Comuter-3,every_day,Burimari,,0,,,0
+752,LAL2DABB-Lalmoni Express,not_friday,Dhaka Bimanbander,,0,,,0
+61,LAL2DIN-Dinajpur Comuter,every_day,Dinajpur,,0,,,0
+63,LAL2PBT-Lalmoni Commuter,every_day,Parbatipur Junction,,0,,,0
+69,LAL2PBT-Parbotipur Comuter,every_day,Parbatipur Junction,,0,,,0
+20,LAL2STU-Bogra Express,every_day,Santahar Junction,,0,,,0
+22,LAL2STU-Padmarag Express,every_day,Santahar Junction,,0,,,0
+80,LKM2CTG-Laksam Comuter,not_friday,Chittagong,,0,,,0
+82,LKM2KCPR-Chandpur Comuter,not_friday,Chandpur Court,,0,,,0
+86,LKM2SNP-Noakhali Comuter,not_friday,Sonapur,,0,,,0
+46,LKM2SNP-Samatat Express,every_day,Sonapur,,0,,,0
+778,MOH2DA-Haore Express,not_thursday,Dhaka,,0,,,0
+44,MOH2DA-Mahua Express,every_day,Dhaka,,0,,,0
+75,MYM2BBE-Dholesssory Express,every_day,Bangabandhu Setu East,,0,,,0
+50,MYM2DA-Balaka Comuter,every_day,Dhaka,,0,,,0
+40,MYM2DA-Isakhan Express,every_day,Dhaka,,0,,,0
+92,MYM2JYR-Mymensingh Comuter,not_friday,Joydevpur Junction,,0,,,0
+732,NPC2AUP-Barendah Express,not_sunday,Abdulpur Junction,,0,,,0
+766,NPC2DABB-Nilsagor,not_sunday,Dhaka Bimanbander,,0,,,0
+122,NZH2CTG-,every_day,Chittagong,,0,,,0
+126,NZH2CTG-,every_day,Chittagong,,0,,,0
+8,PAN2STU-Uttarbanga Mail,every_day,Santahar Junction,,0,,,0
+27,PBT2CLH-Chilahati Express,every_day,Chilahati,,0,,,0
+24,PBT2KLNJ-Rocket Express,every_day,Khulna,,0,,,0
+64,PBT2LAL-Lalmoni Comuter,every_day,Lalmonirhat Junction,,0,,,0
+70,PBT2LAL-Parbotipur Comuter,every_day,Lalmonirhat Junction,,0,,,0
+32,PBT2RJHI-Uttara Express,every_day,Rajshahi,,0,,,0
+41,PBT2THA-Kanchan Express,every_day,Thakurgaon,,0,,,0
+772,RAN2DA-Rangpur Express,not_sunday,Dhaka,,0,,,0
+780,RB2BHG-Bhatiapara Express,every_day,Bhatiapara Ghat,,0,,,0
+770,RJHI2DA-Dhumketue Express,not_monday,Dhaka,,0,,,0
+760,RJHI2DABB-Padma Express,not_tuesday,Dhaka Bimanbander,,0,,,0
+754,RJHI2DABB-Silkcity Express,not_sunday,Dhaka Bimanbander,,0,,,0
+733,RJHI2DOM-Titumir Express,not_wednesday,Domar,,0,,,0
+716,RJHI2NAP-Kapotakhkho Express,not_wednesday,Noapara,,0,,,0
+762,RJHI2NAP-Sagordari Express,not_monday,Noapara,,0,,,0
+31,RJHI2PBT-Uttara Express,every_day,Parbatipur Junction,,0,,,0
+756,RJHI2RB-Modhumoti Express,not_friday,Rajbari,,0,,,0
+77,RJHI2RPU-Rajshahi Commuter,every_day,Rahanpur,,0,,,0
+731,RJHI2SDP-Barendah Express,not_sunday,Saidpur,,0,,,0
+78,RPU2ISH-Rajshahi Comuter,every_day,Ishardi Junction,,0,,,0
+16,RPU2KLNJ-Mahananda Express,every_day,Khulna,,0,,,0
+728,SDP2JS-Rupsha Express,not_thursday,Jessore Junction,,0,,,0
+748,SDP2NAP-Shimanto Express,every_day,Noapara,,0,,,0
+135,SHO2CTU-,every_day,Chittagong University,,0,,,0
+137,SHO2CTU-,every_day,Chittagong University,,0,,,0
+85,SNP2CML-Noakhali Comuter,not_friday,Comilla,,0,,,0
+87,SNP2CML-Noakhali Comuter,not_friday,Comilla,,0,,,0
+11,SNP2DA-Dhaka Express,every_day,Dhaka,,0,,,0
+711,SNP2DABB-Upokul Express,not_wednesday,Dhaka Bimanbander,,0,,,0
+45,SNP2LKM-Samatat Express,every_day,Laksham Junction,,0,,,0
+713,STU2KAU-Karotoa Express,every_day,Kaunia Junction,,0,,,0
+19,STU2LAL-Bogra Express,every_day,Lalmonirhat Junction,,0,,,0
+21,STU2LAL-Padmarag Express,every_day,Lalmonirhat Junction,,0,,,0
+7,STU2THA-Uttarbanga Mail,every_day,Thakurgaon,,0,,,0
+18,SYT2AKA-Kushiara Express,every_day,Akhaura,,0,,,0
+94,SYT2AKA-Sylhet Comuter,not_friday,Akhaura,,0,,,0
+14,SYT2CTG-Jalalabad Express,every_day,Chittagong,,0,,,0
+774,SYT2DA-Kalani Express,not_friday,Dhaka,,0,,,0
+10,SYT2DA-Surma Mail,every_day,Dhaka,,0,,,0
+718,SYT2DABB-Jayantika Express,not_thursday,Dhaka Bimanbander,,0,,,0
+710,SYT2DABB-Parabat Express,not_tuesday,Dhaka Bimanbander,,0,,,0
+740,SYT2DABB-Upoban Express,every_day,Dhaka Bimanbander,,0,,,0
+720,SYT2FNI-Pararika Express,not_saturday,Feni Junction,,0,,,0
+724,SYT2FNI-Udayan Express,not_sunday,Feni Junction,,0,,,0
+736,TAR2DABB-Augnibina Express,every_day,Dhaka Bimanbander,,0,,,0
+746,TAR2DABB-Jamuna Express,every_day,Dhaka Bimanbander,,0,,,0
+42,THA2PBT-Kanchan Express,every_day,Parbatipur Junction,,0,,,0
